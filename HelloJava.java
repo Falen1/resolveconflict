@@ -1,5 +1,5 @@
 public class HelloJava {
-//prueba comentario
+//Cambios del DEV2
 	
 	public static void main(String[] args) {
 
